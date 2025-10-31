@@ -13,3 +13,20 @@ BookBot is a simple Python command-line application that reads a `.txt` file (li
 - Prints a clean summary of the results in the console  
 
 ---
+
+
+---
+
+## ⚙️ How to Run
+
+1. Make sure you have **Python 3.8+** installed.
+
+2. Clone or download this repository.
+
+3. Open a terminal inside the project folder.
+
+4. Run the program with:
+
+   ```bash
+   python main.py books/frankenstein.txt
+
