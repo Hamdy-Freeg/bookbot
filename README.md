@@ -1,6 +1,7 @@
 # BookBot – Text Analyzer in Python
 
 BookBot is a simple Python command-line application that reads a `.txt` file (like a book 📖) and generates basic statistics about it — such as the total number of words and the frequency of each character.
+part of boot.dev projects
 
 ---
 
